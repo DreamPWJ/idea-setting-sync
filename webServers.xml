@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29706d96-110e-4838-88fa-3b994576a977" name="health" url="http://182.92.126.7">
+        <fileTransfer accessType="SFTP" host="182.92.126.7" port="22" sshConfigId="74f43fd5-5fd7-47c9-8ed5-9661fb47334e" sshConfig="health">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4efd6fb3-8ed1-4385-b8a0-f1aa4fbccdc2" name="docker-common" url="http://39.96.84.51">
+        <fileTransfer accessType="SFTP" host="39.96.84.51" port="22" sshConfigId="3c20d0d9-ed57-47e1-9c19-8bd83df8dae1" sshConfig="docker-common">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8b96b86c-575f-481a-8c35-7d5e16996cf6" name="test" url="http://39.96.19.25">
+        <fileTransfer accessType="SFTP" host="39.96.19.25" port="22" sshConfigId="35f749eb-598b-4841-bb84-ebbac1fd8fe4" sshConfig="test">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
