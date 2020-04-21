@@ -1,0 +1,137 @@
+<templateSet group="自定义模板">
+  <template name="psfi" value="public static final int  $var1$ = $var2$;" description="常量" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="selmap" value="&lt;!--方法注释说明--&gt;&#10;&lt;select id=&quot;$var1$&quot;  resultType=&quot;map&quot;&gt;&#10;&#10;&lt;/select&gt;" description="XML Mybatis查询" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="mso" value="Map&lt;String,Object&gt; map =$var1$" description="Map&lt;String,Object&gt; map =" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lmso" value="List&lt;Map&lt;String,Object&gt;&gt; list=$var1$" description="List&lt;Map&lt;String,Object&gt;&gt; list=" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mnew" value="Map&lt;String,Object&gt; map = new HashMap();" description="Map&lt;String,Object&gt; map = new HashMap();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try {&#10;    &#10;} catch (Exception e) {&#10;    throw new ServiceException(&quot;$var1$&quot;);&#10;}" description="异常处理" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if($var1$==$var2$){&#10;&#10;}else{&#10;&#10;}" description="if else条件" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="httpget" value="    this.http.get(`$var$`,{}).subscribe(res=&gt;{&#10;&#10;    });" description="http请求get方式" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="phttp" value="private http: HttpService" description="服务注入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pas" value="private app: AppService" description="服务注入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ionvde" value=" ionViewDidEnter(){&#10; &#10; }" description="ionic生命周期" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pag" value="private global: GlobalService" description="服务注入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="httppost" value="    this.http.post(`$var$`,{}).subscribe(res=&gt;{&#10;&#10;    });" description="http请求post方式" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="wx:for" value="wx:for=&quot;{{$var$}}&quot; wx:for-item=&quot;item&quot; wx:key=&quot;*this&quot;" description="微信小程序for循环" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="paa" value=" private app: AppService, private global: GlobalService," description="多个注册服务同时注入" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ionvwe" value="ionViewWillEnter(){&#10;&#10;}" description="ionic页面将要进入的生命周期" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vfor" value="&lt;div v-for=&quot;item in list&quot; :key=&quot;item.id&quot;&gt;&#10; {{ item }}&#10;&lt;/div&gt;" description="vue for循环" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="prg" value="/**&#10; * get方法&#10; */&#10;@GetMapping(&quot;/user/{id}&quot;)&#10;public Result get(@PathVariable String id) {&#10;    return ResultGenerator.success(&quot;获取成功&quot;);&#10;}" description="spring boot 控制器方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nga" value="ngAfterViewInit() {&#10;&#10;}" description="ngAfterViewInit生命周期" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ioa" value="implements OnInit, AfterViewInit" description="implements OnInit, AfterViewInit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ion-back" value="&lt;ion-buttons slot=&quot;start&quot;&gt;&#10;     &lt;ion-back-button&gt;&lt;/ion-back-button&gt;&#10;&lt;/ion-buttons&gt;" description="ionic header返回按钮" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="papi" value="private api: ApiService" description="private api: ApiService" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="zhushi" value="/**&#10; * @author 潘维吉&#10; * @date $DATE$ $TIME$&#10; * @email 406798106@qq.com&#10; * @description&#10; */" description="Java注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mapperxml" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;!DOCTYPE mapper PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot; &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;&gt;&#10;&lt;mapper namespace=&quot;com.&quot;&gt;&#10;&#10;&#10;&lt;/mapper&gt;" description="mapperxml骨架" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

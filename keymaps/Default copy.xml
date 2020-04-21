@@ -1,0 +1,32 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+  </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
