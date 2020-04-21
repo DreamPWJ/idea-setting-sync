@@ -9,6 +9,7 @@
       <mapping pattern="mysql-auto-backup" type="PLAIN_TEXT" />
       <mapping pattern="at-things-sql" type="PLAIN_TEXT" />
       <mapping pattern="linux" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="test.sh" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
@@ -18,16 +19,15 @@
       <mapping pattern="table-design.sql" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="de_ddl.sql" type="PLAIN_TEXT" />
-      <mapping pattern="PipelineTest" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev-test" type="PLAIN_TEXT" />
       <mapping pattern="TABLE" type="PLAIN_TEXT" />
       <mapping pattern="Dokkerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="PipelineTest" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
