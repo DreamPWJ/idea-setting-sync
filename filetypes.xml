@@ -20,8 +20,8 @@
       <mapping pattern="de_ddl.sql" type="PLAIN_TEXT" />
       <mapping pattern="PipelineTest" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev-test" type="PLAIN_TEXT" />
       <mapping pattern="TABLE" type="PLAIN_TEXT" />
       <mapping pattern="Dokkerfile" type="PLAIN_TEXT" />
