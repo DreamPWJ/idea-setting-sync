@@ -4,6 +4,7 @@
       <sshConfig authType="PASSWORD" host="182.92.126.7" id="74f43fd5-5fd7-47c9-8ed5-9661fb47334e" port="22" customName="health" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="39.96.19.25" id="35f749eb-598b-4841-bb84-ebbac1fd8fe4" port="22" customName="test" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="39.96.84.51" id="3c20d0d9-ed57-47e1-9c19-8bd83df8dae1" port="22" customName="docker-common" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="47.105.198.77" id="57b917d1-4dfd-4e08-811c-8224cde34be9" port="22" customName="安家中间件" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
