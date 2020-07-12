@@ -29,6 +29,20 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="95c61a38-9889-4937-b19d-2f926ca56719" name="盯事">
+        <fileTransfer accessType="SFTP" host="47.100.117.90" port="22" sshConfigId="910434ac-52a0-4f66-862d-12f52061f765" sshConfig="盯事">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cc896e82-6b0b-4bc5-b031-01e288a2e821" name="名片">
+        <fileTransfer accessType="SFTP" host="118.190.36.1" port="22" sshConfigId="702571d7-1a38-4f8b-b588-9b9cbd87ce73" sshConfig="名片">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
