@@ -5,38 +5,38 @@
       <mapping pattern="pipeline" type="Groovy" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="test,sh" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="at-things-sql" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev-server" type="PLAIN_TEXT" />
-      <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
-      <mapping pattern="mysql" type="PLAIN_TEXT" />
-      <mapping pattern="table-design.sql" type="PLAIN_TEXT" />
-      <mapping pattern="sudoers" type="PLAIN_TEXT" />
-      <mapping pattern="docker-compose-dev" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="de_ddl.sql" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern="cacerts" type="PLAIN_TEXT" />
-      <mapping pattern=".env.default" type="PLAIN_TEXT" />
-      <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
       <mapping pattern="PipelineTest" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="test,sh" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Dokkerfile" type="PLAIN_TEXT" />
+      <mapping pattern="at-things-sql" type="PLAIN_TEXT" />
       <mapping pattern="test.sh" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev-server" type="PLAIN_TEXT" />
       <mapping pattern="TABLE" type="PLAIN_TEXT" />
+      <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
       <mapping pattern="linux" type="PLAIN_TEXT" />
+      <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="table-design.sql" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev-test" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compose-dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="de_ddl.sql" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="cacerts" type="PLAIN_TEXT" />
       <mapping pattern="mysql-auto-backup" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".env.default" type="PLAIN_TEXT" />
+      <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
@@ -54,10 +54,9 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="6" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -65,6 +64,7 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="6" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
