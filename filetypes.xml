@@ -11,8 +11,8 @@
       <mapping pattern=".env.dev-server" type="PLAIN_TEXT" />
       <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
       <mapping pattern="mysql" type="PLAIN_TEXT" />
-      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="table-design.sql" type="PLAIN_TEXT" />
+      <mapping pattern="sudoers" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose-dev" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
@@ -23,8 +23,8 @@
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
       <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="PipelineTest" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Dokkerfile" type="PLAIN_TEXT" />
       <mapping pattern="test.sh" type="PLAIN_TEXT" />
       <mapping pattern="linux" type="PLAIN_TEXT" />
