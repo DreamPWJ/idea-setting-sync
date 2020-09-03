@@ -5,6 +5,7 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://39.96.84.51:3306/health_dev</jdbc-url>
+      <keep-alive enable="true" />
     </data-source>
     <data-source source="LOCAL" name="阿里云名片" uuid="069fda14-2b67-4821-a212-c32bc33fd190">
       <driver-ref>mysql.8</driver-ref>
