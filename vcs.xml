@@ -366,9 +366,13 @@
           <option name="url" value="https://github.com/spring-guides/gs-consuming-web-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.antaikeji.top/health/health-bot" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\sourcecode" />
+    <option name="cloneParentDir" value="E:\IDEA" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
