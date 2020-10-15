@@ -374,6 +374,10 @@
           <option name="url" value="http://git.antaikeji.top/health/jenkins-shared-library" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.antaikeji.top/health/health-docs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\IDEA" />
