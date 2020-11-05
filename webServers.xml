@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4efd6fb3-8ed1-4385-b8a0-f1aa4fbccdc2" name="docker-common" url="http://39.96.84.51">
-        <fileTransfer accessType="SFTP" host="47.105.198.77" port="22" sshConfigId="57b917d1-4dfd-4e08-811c-8224cde34be9" sshConfig="安家中间件">
+        <fileTransfer accessType="SFTP" host="39.96.84.51" port="22" sshConfigId="3c20d0d9-ed57-47e1-9c19-8bd83df8dae1" sshConfig="docker-common">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
