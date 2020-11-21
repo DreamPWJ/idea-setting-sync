@@ -50,6 +50,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="352059ec-e8d4-47bf-a9ab-6b396fb5f43d" name="macos-test">
+        <fileTransfer accessType="SFTP" host="8.131.64.66" port="22" sshConfigId="a4aa15a8-c0c2-4a4e-87dc-b987d3e10901" sshConfig="macos-test">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
