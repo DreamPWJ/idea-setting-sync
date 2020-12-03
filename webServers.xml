@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="1d1fd40c-49d2-4192-9401-f2d23d6f45b0" name="at-things">
+        <fileTransfer accessType="SFTP" host="47.100.117.90" port="22" sshConfigId="5bbef4b7-5e39-4ec6-8cb6-fdf2f9ea39af" sshConfig="at-things">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="6753ca07-c7ab-4c1a-a4e5-330983ce4e38" name="安家中间件">
         <fileTransfer accessType="SFTP" host="47.105.198.77" port="22" sshConfigId="57b917d1-4dfd-4e08-811c-8224cde34be9" sshConfig="安家中间件">
           <advancedOptions>
@@ -52,6 +59,13 @@
       </webServer>
       <webServer id="352059ec-e8d4-47bf-a9ab-6b396fb5f43d" name="macos-test">
         <fileTransfer accessType="SFTP" host="8.131.64.66" port="22" sshConfigId="a4aa15a8-c0c2-4a4e-87dc-b987d3e10901" sshConfig="macos-test">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="07106aba-be0f-40b7-8b05-8ae229445632" name="sadhu">
+        <fileTransfer accessType="SFTP" host="47.97.117.58" port="22" sshConfigId="5a1f65f6-679d-4337-b7c4-7d95aae16582" sshConfig="sadhu">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

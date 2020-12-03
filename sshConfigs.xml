@@ -25,6 +25,9 @@
       <sshConfig authType="PASSWORD" host="8.131.64.66" id="a4aa15a8-c0c2-4a4e-87dc-b987d3e10901" port="22" customName="macos-test" nameFormat="CUSTOM" username="root">
         <option name="customName" value="macos-test" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="47.97.117.58" id="5a1f65f6-679d-4337-b7c4-7d95aae16582" port="22" customName="sadhu" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="sadhu" />
+      </sshConfig>
     </configs>
   </component>
 </application>
