@@ -28,6 +28,9 @@
       <sshConfig authType="PASSWORD" host="47.97.117.58" id="5a1f65f6-679d-4337-b7c4-7d95aae16582" port="22" customName="sadhu" nameFormat="CUSTOM" username="root">
         <option name="customName" value="sadhu" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="47.100.117.90" id="5bbef4b7-5e39-4ec6-8cb6-fdf2f9ea39af" port="22" customName="at-things" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="at-things" />
+      </sshConfig>
     </configs>
   </component>
 </application>
