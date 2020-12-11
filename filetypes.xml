@@ -40,6 +40,7 @@
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="0__create_tables" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
