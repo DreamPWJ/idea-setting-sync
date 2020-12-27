@@ -71,6 +71,20 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="731b3aa8-4953-4df1-bec5-1ec684c78c51" name="安家应用1号机">
+        <fileTransfer accessType="SFTP" host="47.104.101.172" port="22" sshConfigId="1fed904d-e035-4361-a60c-100dfa9a5166" sshConfig="安家应用1号机">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="77c5b322-f055-4561-b97f-373e38bf4cad" name="安家应用2号机">
+        <fileTransfer accessType="SFTP" host="47.105.34.99" port="22" sshConfigId="d0a7c6c8-0e78-426a-a8a6-ac565c24f844" sshConfig="安家应用2号机">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
