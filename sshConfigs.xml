@@ -40,6 +40,9 @@
       <sshConfig authType="PASSWORD" host="47.254.81.173" id="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" port="22" customName="guigu" nameFormat="CUSTOM" username="root">
         <option name="customName" value="guigu" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="119.184.127.215" id="fb4c677a-98c9-428e-8a2e-33809b7ff477" port="22" customName="mac-mini" nameFormat="CUSTOM" username="liming">
+        <option name="customName" value="mac-mini" />
+      </sshConfig>
     </configs>
   </component>
 </application>

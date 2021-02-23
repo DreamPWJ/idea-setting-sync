@@ -92,6 +92,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9c917cb6-dda6-4aed-bc0b-05e8c18df03a" name="mac-mini">
+        <fileTransfer accessType="SFTP" host="119.184.127.215" port="22" sshConfigId="fb4c677a-98c9-428e-8a2e-33809b7ff477" sshConfig="mac-mini">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
