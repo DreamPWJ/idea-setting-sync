@@ -43,6 +43,9 @@
       <sshConfig authType="PASSWORD" host="119.184.127.215" id="fb4c677a-98c9-428e-8a2e-33809b7ff477" port="22" customName="mac-mini" nameFormat="CUSTOM" username="liming">
         <option name="customName" value="mac-mini" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="39.105.170.205" id="850e2e97-485f-4431-b319-bf3382afe6ff" port="22" customName="health-prod" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="health-prod" />
+      </sshConfig>
     </configs>
   </component>
 </application>

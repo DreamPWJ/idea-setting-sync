@@ -99,6 +99,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="48aa7cab-e14d-47b6-83d4-1c34e5b19fe7" name="health-prod">
+        <fileTransfer accessType="SFTP" host="39.105.170.205" port="22" sshConfigId="850e2e97-485f-4431-b319-bf3382afe6ff" sshConfig="health-prod">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
