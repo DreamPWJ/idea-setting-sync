@@ -57,6 +57,7 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="6" type="TypeScript" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
