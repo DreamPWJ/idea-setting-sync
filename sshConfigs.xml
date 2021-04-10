@@ -1,49 +1,49 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="182.92.126.7" id="74f43fd5-5fd7-47c9-8ed5-9661fb47334e" port="22" customName="health" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="182.92.126.7" id="74f43fd5-5fd7-47c9-8ed5-9661fb47334e" port="22" customName="health" nameFormat="CUSTOM" username="root">
         <option name="customName" value="health" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="39.96.19.25" id="35f749eb-598b-4841-bb84-ebbac1fd8fe4" port="22" customName="test" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="39.96.19.25" id="35f749eb-598b-4841-bb84-ebbac1fd8fe4" port="22" customName="test" nameFormat="CUSTOM" username="root">
         <option name="customName" value="test" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="39.96.84.51" id="3c20d0d9-ed57-47e1-9c19-8bd83df8dae1" port="22" customName="docker-common" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="39.96.84.51" id="3c20d0d9-ed57-47e1-9c19-8bd83df8dae1" port="22" customName="docker-common" nameFormat="CUSTOM" username="root">
         <option name="customName" value="docker-common" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.105.198.77" id="57b917d1-4dfd-4e08-811c-8224cde34be9" port="22" customName="安家中间件" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.105.198.77" id="57b917d1-4dfd-4e08-811c-8224cde34be9" port="22" customName="安家中间件" nameFormat="CUSTOM" username="root">
         <option name="customName" value="安家中间件" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.100.117.90" id="910434ac-52a0-4f66-862d-12f52061f765" port="22" customName="盯事" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.100.117.90" id="910434ac-52a0-4f66-862d-12f52061f765" port="22" customName="盯事" nameFormat="CUSTOM" username="root">
         <option name="customName" value="盯事" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="118.190.36.1" id="702571d7-1a38-4f8b-b588-9b9cbd87ce73" port="22" customName="名片" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="118.190.36.1" id="702571d7-1a38-4f8b-b588-9b9cbd87ce73" port="22" customName="名片" nameFormat="CUSTOM" username="root">
         <option name="customName" value="名片" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="101.200.54.165" id="17bf5406-17db-474f-99a9-c940f93086cc" port="22" customName="test2" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="101.200.54.165" id="17bf5406-17db-474f-99a9-c940f93086cc" port="22" customName="test2" nameFormat="CUSTOM" username="root">
         <option name="customName" value="test2" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="8.131.64.66" id="a4aa15a8-c0c2-4a4e-87dc-b987d3e10901" port="22" customName="macos-test" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="8.131.64.66" id="a4aa15a8-c0c2-4a4e-87dc-b987d3e10901" port="22" customName="macos-test" nameFormat="CUSTOM" username="root">
         <option name="customName" value="macos-test" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.97.117.58" id="5a1f65f6-679d-4337-b7c4-7d95aae16582" port="22" customName="sadhu" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.97.117.58" id="5a1f65f6-679d-4337-b7c4-7d95aae16582" port="22" customName="sadhu" nameFormat="CUSTOM" username="root">
         <option name="customName" value="sadhu" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.100.117.90" id="5bbef4b7-5e39-4ec6-8cb6-fdf2f9ea39af" port="22" customName="at-things" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.100.117.90" id="5bbef4b7-5e39-4ec6-8cb6-fdf2f9ea39af" port="22" customName="at-things" nameFormat="CUSTOM" username="root">
         <option name="customName" value="at-things" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.104.101.172" id="1fed904d-e035-4361-a60c-100dfa9a5166" port="22" customName="安家应用1号机" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.104.101.172" id="1fed904d-e035-4361-a60c-100dfa9a5166" port="22" customName="安家应用1号机" nameFormat="CUSTOM" username="root">
         <option name="customName" value="安家应用1号机" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.105.34.99" id="d0a7c6c8-0e78-426a-a8a6-ac565c24f844" port="22" customName="安家应用2号机" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.105.34.99" id="d0a7c6c8-0e78-426a-a8a6-ac565c24f844" port="22" customName="安家应用2号机" nameFormat="CUSTOM" username="root">
         <option name="customName" value="安家应用2号机" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="47.254.81.173" id="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" port="22" customName="guigu" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.254.81.173" id="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" port="22" customName="guigu" nameFormat="CUSTOM" username="root">
         <option name="customName" value="guigu" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="119.184.127.215" id="fb4c677a-98c9-428e-8a2e-33809b7ff477" port="22" customName="mac-mini" nameFormat="CUSTOM" username="liming">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="119.184.127.215" id="fb4c677a-98c9-428e-8a2e-33809b7ff477" port="22" customName="mac-mini" nameFormat="CUSTOM" username="liming">
         <option name="customName" value="mac-mini" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="39.105.170.205" id="850e2e97-485f-4431-b319-bf3382afe6ff" port="22" customName="health-prod" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="39.105.170.205" id="850e2e97-485f-4431-b319-bf3382afe6ff" port="22" customName="health-prod" nameFormat="CUSTOM" username="root">
         <option name="customName" value="health-prod" />
       </sshConfig>
     </configs>
