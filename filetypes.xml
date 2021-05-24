@@ -50,6 +50,7 @@
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="lrc" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
+      <mapping ext="p8" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
