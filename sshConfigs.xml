@@ -37,7 +37,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.105.34.99" id="d0a7c6c8-0e78-426a-a8a6-ac565c24f844" port="22" customName="安家应用2号机" nameFormat="CUSTOM" username="root">
         <option name="customName" value="安家应用2号机" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.254.81.173" id="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" port="22" customName="guigu" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.88.85.154" id="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" port="22" customName="guigu" nameFormat="CUSTOM" username="root">
         <option name="customName" value="guigu" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="119.184.127.215" id="fb4c677a-98c9-428e-8a2e-33809b7ff477" port="22" customName="mac-mini" nameFormat="CUSTOM" username="liming">

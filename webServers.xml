@@ -86,7 +86,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="dca44b4f-7e98-412d-bc43-847c59586274" name="guigu">
-        <fileTransfer accessType="SFTP" host="47.254.81.173" port="22" sshConfigId="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" sshConfig="guigu">
+        <fileTransfer accessType="SFTP" host="47.88.85.154" port="22" sshConfigId="a7e218f5-b2b2-4084-b030-f73dbe2b6cfb" sshConfig="guigu">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
