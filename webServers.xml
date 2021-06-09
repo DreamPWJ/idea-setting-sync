@@ -106,6 +106,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="4e852982-d9ee-42ca-a2bb-c6faf4aab63e" name="咖啡生产中间件">
+        <fileTransfer accessType="SFTP" host="121.42.15.177" port="22" sshConfigId="3a29a508-cb32-4e63-8412-10969e4b44d4" sshConfig="咖啡生产中间件">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

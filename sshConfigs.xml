@@ -46,6 +46,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="39.105.170.205" id="850e2e97-485f-4431-b319-bf3382afe6ff" port="22" customName="health-prod" nameFormat="CUSTOM" username="root">
         <option name="customName" value="health-prod" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="121.42.15.177" id="3a29a508-cb32-4e63-8412-10969e4b44d4" port="22" customName="咖啡生产中间件" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="咖啡生产中间件" />
+      </sshConfig>
     </configs>
   </component>
 </application>
