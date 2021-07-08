@@ -59,6 +59,7 @@
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="web" type="PLAIN_TEXT" />
+      <mapping ext="unity" type="PLAIN_TEXT" />
       <mapping ext="an-plus" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
