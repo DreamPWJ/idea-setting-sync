@@ -61,11 +61,13 @@
       <mapping ext="web" type="PLAIN_TEXT" />
       <mapping ext="an-plus" type="PLAIN_TEXT" />
       <mapping ext="unity" type="PLAIN_TEXT" />
+      <mapping ext="atkj-mobile" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="antaikeji-icp-edi" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="an-plus-mobile" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="*Fastfile" type="Ruby" />
