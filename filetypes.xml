@@ -5,7 +5,6 @@
       <mapping pattern="Pluginfile" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="AUTO_DETECTED" />
       <mapping ext="wxss" type="CSS" />
-      <mapping pattern="pipeline" type="Groovy" />
       <mapping ext="wxml" type="HTML" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -28,8 +27,8 @@
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
       <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="hostname" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="PipelineTest" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Dokkerfile" type="PLAIN_TEXT" />
       <mapping pattern="test.sh" type="PLAIN_TEXT" />
       <mapping pattern="linux" type="PLAIN_TEXT" />
@@ -44,8 +43,8 @@
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="0__create_tables" type="PLAIN_TEXT" />
       <mapping ext="ttc" type="PLAIN_TEXT" />
       <mapping ext="cf" type="PLAIN_TEXT" />
@@ -67,8 +66,8 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
-      <mapping ext="an-plus-mobile" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="an-plus-mobile" type="PLAIN_TEXT" />
       <mapping ext="propertie" type="PLAIN_TEXT" />
       <mapping pattern="*Fastfile" type="Ruby" />
       <mapping pattern="6" type="TypeScript" />
@@ -84,6 +83,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="Fastfile" approved="true" type="Ruby" />
+      <mapping pattern="pipeline" type="Groovy" />
     </extensionMap>
   </component>
 </application>
