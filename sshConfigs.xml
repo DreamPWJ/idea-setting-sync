@@ -49,6 +49,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="121.42.15.177" id="3a29a508-cb32-4e63-8412-10969e4b44d4" port="22" customName="咖啡生产中间件" nameFormat="CUSTOM" username="root">
         <option name="customName" value="咖啡生产中间件" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="59.110.22.214" id="4f72d912-87e2-435e-8733-c57feff00dcd" port="22" customName="护护通" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="护护通" />
+      </sshConfig>
     </configs>
   </component>
 </application>

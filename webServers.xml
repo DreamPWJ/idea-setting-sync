@@ -113,6 +113,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="5716f616-a771-4569-80d6-ff3f8871edd3" name="护护通生产">
+        <fileTransfer accessType="SFTP" host="59.110.22.214" port="22" sshConfigId="4f72d912-87e2-435e-8733-c57feff00dcd" sshConfig="护护通">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
