@@ -120,6 +120,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b599379f-a1b9-4cd9-a7f5-78f08394474c" name="test3">
+        <fileTransfer accessType="SFTP" host="119.184.127.215" port="2255" sshConfigId="8f9dec21-325f-4be4-9ad8-87badb5855cb" sshConfig="test3">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

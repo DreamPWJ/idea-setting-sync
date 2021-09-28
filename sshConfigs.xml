@@ -52,6 +52,9 @@
       <sshConfig authType="PASSWORD" host="59.110.22.214" id="4f72d912-87e2-435e-8733-c57feff00dcd" port="22" customName="护护通" nameFormat="CUSTOM" username="root">
         <option name="customName" value="护护通" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="119.184.127.215" id="8f9dec21-325f-4be4-9ad8-87badb5855cb" port="2255" customName="test3" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="test3" />
+      </sshConfig>
     </configs>
   </component>
 </application>
