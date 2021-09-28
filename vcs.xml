@@ -406,9 +406,13 @@
           <option name="url" value="http://git.antaikeji.top/antaikeji-iot/iot-docs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.antaikeji.top/health/python-demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\IDEA" />
+    <option name="cloneParentDir" value="E:\hub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
