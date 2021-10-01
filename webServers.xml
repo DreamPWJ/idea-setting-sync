@@ -2,9 +2,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1d1fd40c-49d2-4192-9401-f2d23d6f45b0" name="at-things">
-        <fileTransfer accessType="SFTP" host="47.100.117.90" port="22" sshConfigId="5bbef4b7-5e39-4ec6-8cb6-fdf2f9ea39af" sshConfig="at-things">
+        <fileTransfer accessType="SFTP" host="47.104.150.94" port="22" sshConfigId="040066c8-8c48-4707-9af9-45f83ce752b6" sshConfig="VR网站生产">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -122,6 +122,13 @@
       </webServer>
       <webServer id="b599379f-a1b9-4cd9-a7f5-78f08394474c" name="test3">
         <fileTransfer accessType="SFTP" host="119.184.127.215" port="2255" sshConfigId="8f9dec21-325f-4be4-9ad8-87badb5855cb" sshConfig="test3">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5a6c9071-ed10-4499-8b2e-2e4c53b85484" name="VR网站生产">
+        <fileTransfer accessType="SFTP" host="47.104.150.94" port="22" sshConfigId="040066c8-8c48-4707-9af9-45f83ce752b6" sshConfig="VR网站生产">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

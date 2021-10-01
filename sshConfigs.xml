@@ -55,6 +55,9 @@
       <sshConfig authType="PASSWORD" host="119.184.127.215" id="8f9dec21-325f-4be4-9ad8-87badb5855cb" port="2255" customName="test3" nameFormat="CUSTOM" username="root">
         <option name="customName" value="test3" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="47.104.150.94" id="040066c8-8c48-4707-9af9-45f83ce752b6" port="22" customName="VR网站生产" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="VR网站生产" />
+      </sshConfig>
     </configs>
   </component>
 </application>
