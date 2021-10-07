@@ -5,8 +5,9 @@
       <mapping pattern="Pluginfile" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="AUTO_DETECTED" />
       <mapping ext="wxss" type="CSS" />
+      <mapping ext="gradle" type="Groovy" />
+      <mapping ext="gant" type="Groovy" />
       <mapping ext="wxml" type="HTML" />
-      <mapping ext="groovy" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
