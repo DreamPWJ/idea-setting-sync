@@ -58,6 +58,9 @@
       <sshConfig authType="PASSWORD" host="47.104.150.94" id="040066c8-8c48-4707-9af9-45f83ce752b6" port="22" customName="VR网站生产" nameFormat="CUSTOM" username="root">
         <option name="customName" value="VR网站生产" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="118.190.150.96" id="44a6a7de-27e1-4b5d-aada-2f322cbc0ca7" port="22" customName="安泰房产生产" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="安泰房产生产" />
+      </sshConfig>
     </configs>
   </component>
 </application>

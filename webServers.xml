@@ -134,6 +134,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="92f2a1ed-0e21-469a-9892-586761ab165b" name="安泰房产生产">
+        <fileTransfer accessType="SFTP" host="118.190.150.96" port="22" sshConfigId="44a6a7de-27e1-4b5d-aada-2f322cbc0ca7" sshConfig="安泰房产生产">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
