@@ -414,6 +414,10 @@
           <option name="url" value="http://git.antaikeji.top/antaikeji/antaikeji-mini" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fastlane/fastlane" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\hub" />
