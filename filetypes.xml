@@ -16,8 +16,8 @@
       <mapping pattern=".env.dev-server" type="PLAIN_TEXT" />
       <mapping pattern="Dokcerfile" type="PLAIN_TEXT" />
       <mapping pattern="mysql" type="PLAIN_TEXT" />
-      <mapping pattern="table-design.sql" type="PLAIN_TEXT" />
       <mapping pattern="sudoers" type="PLAIN_TEXT" />
+      <mapping pattern="table-design.sql" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose-dev" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
